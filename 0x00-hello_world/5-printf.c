@@ -2,10 +2,10 @@
 
 
 /**
- * main - A program that print a line using the print function
- * Return: 0
- *
- */
+* main - A program that print a line using the print function
+*Return: 0
+*
+*/
 
 int main(void)
 
