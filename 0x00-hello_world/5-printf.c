@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-* main -5 -printf.c
-* Return: 0
+*main -5 -printf.c
+*Return: 0
 */
 int main(void)
 {
