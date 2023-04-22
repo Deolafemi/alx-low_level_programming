@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main -6 =sixe.C
+* main -6 -size.C
 * Return: 0
 */
 int main(void)
