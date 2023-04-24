@@ -8,7 +8,7 @@
 * Return: Always 0 (Success)
 */
 
-int mail(void)
+int main(void)
 {
 char letter;
 
